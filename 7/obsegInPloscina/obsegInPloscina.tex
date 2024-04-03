@@ -1,0 +1,71 @@
+\documentclass{article}
+
+\usepackage{tikz}
+\usepackage{verbatim}
+\usepackage{parskip}
+\usepackage{amsthm}
+\usepackage{xpatch}
+\usepackage{amsmath}
+\usepackage{graphicx}
+
+\graphicspath{ {./img/} }
+
+\setlength\parindent{0pt}
+
+\newtheorem{definicija}{Definicija}[subsection]
+\newtheorem{lema}{Lema}[subsection]
+\newtheorem{izrek}{Izrek}[subsection]
+\newtheorem{trditev}{Trditev}[subsection]
+\newtheorem{posledica}{Posledica}[subsection]
+\newtheorem{domneva}{Domneva}[subsection]
+\newtheorem{primer}{Primer}[subsection]
+\newtheorem{opomba}{Opomba}[subsection]
+
+\makeatletter
+\xpatchcmd{\@thm}{\thm@headpunct{.}}{\thm@headpunct{:}}{}{}
+\makeatother
+
+\begin{document}
+\pagestyle{empty}
+
+\begin{comment}
+definitions
+\end{comment}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{ Obseg in ploscina }
+\subsection{ Večkotniki }
+
+\begin{definicija}[Obseg]
+    Obseg večkotnika je vsota dolžin njegovih stranic.
+\end{definicija}
+
+\begin{definicija}[Ploščina]
+    Ploščina večkotnika je število vseh ploščinskih enot, s katerimi je lik prekrit, ali pa vsota ploščin vseh pravokotnikov in kvadratov, na katere je večkotnik razdeljen.
+\end{definicija}
+
+\pagebreak
+\subsection{ Paralelogram }
+
+\begin{trditev}[Obseg paralelograma]
+    Obseg paralelograma je vsota dolžin vseh njegovih stranic.
+    \[ o = 2 \cdot a + 2 \cdot b \]
+\end{trditev}
+
+\begin{trditev}[Ploščina paralelograma]
+    Ploščina paralelograma je enaka produktu dolžine stranice in pripadajoče višine.
+    \[ p = a \cdot v_a \quad \text{ali} \quad p = b \cdot v_b \]
+\end{trditev}
+
+\begin{trditev}[Obseg romba]
+    Obseg romba je štirikratnik dolžine stranice.
+    \[ o = 4 \cdot a \]
+\end{trditev}
+
+\begin{trditev}[Ploščina romba]
+    Ploščina romba je enaka produktu dolžine stranice in višine.
+    \[ p = a \cdot v_a \]
+\end{trditev}
+
+
+\end{document}
