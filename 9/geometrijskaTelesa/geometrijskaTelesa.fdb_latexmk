@@ -1,15 +1,10 @@
 # Fdb version 4
-["pdflatex"] 1709485575 "c:/Users/Luka/source/zgnl/9/geometrijskaTelesa/geometrijskaTelesa.tex" "geometrijskaTelesa.pdf" "geometrijskaTelesa" 1709485576 0
-  "c:/Users/Luka/source/zgnl/9/geometrijskaTelesa/geometrijskaTelesa.tex" 1709485567 1063 4419a6fb78d047cf80cca5fa07869616 ""
+["pdflatex"] 1712404017 "c:/Users/Luka/source/zgnl/9/geometrijskaTelesa/geometrijskaTelesa.tex" "geometrijskaTelesa.pdf" "geometrijskaTelesa" 1712404018 0
+  "c:/Users/Luka/source/zgnl/9/geometrijskaTelesa/geometrijskaTelesa.tex" 1712404015 891 878b1eaf1ff7db85b62ca24f0b685f9f ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1697215677 3524 cb3e574dea2d1052e39280babc910dc8 ""
-  "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1697213618 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1697213618 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1697213618 1288 655e228510b4c2a1abe905c368440826 ""
-  "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1697213618 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
-  "c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1697212153 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1697212153 32080 340ef9bf63678554ee606688e7b5339d ""
-  "c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1697212153 35752 024fb6c41858982481f6968b5fc26508 ""
-  "c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1697212153 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1697219226 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "c:/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty" 1697216875 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
   "c:/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty" 1697216947 8356 7bbb2c2373aa810be568c29e333da8ed ""
@@ -111,7 +106,7 @@
   "c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1697224407 4750288 b9e32a962a7e89ce3e18dd08022e1c68 ""
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1697224515 8195351 f0c12f76edf2bf3522a5e617f308faa1 ""
   "c:/texlive/2023/texmf.cnf" 1697224385 713 baa45e065482d44c4cd81b98ef72c63b ""
-  "geometrijskaTelesa.aux" 1709485576 254 79e038dc93556206ad589e2df5a226cd "pdflatex"
+  "geometrijskaTelesa.aux" 1712404018 235 bfc0fd4ee8ef42da1635e00d3aed6441 "pdflatex"
   (generated)
   "geometrijskaTelesa.aux"
   "geometrijskaTelesa.log"

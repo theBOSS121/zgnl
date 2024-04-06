@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1710067180 "c:/Users/Luka/source/zgnl/7/trikotnikiInStirikotniki/trikotnikiInStirikotniki.tex" "trikotnikiInStirikotniki.pdf" "trikotnikiInStirikotniki" 1710067185 0
-  "c:/Users/Luka/source/zgnl/7/trikotnikiInStirikotniki/trikotnikiInStirikotniki.tex" 1710067174 13219 9e736303a23e9926c0e04795f1c6e803 ""
+["pdflatex"] 1712404002 "c:/Users/Luka/source/zgnl/7/trikotnikiInStirikotniki/trikotnikiInStirikotniki.tex" "trikotnikiInStirikotniki.pdf" "trikotnikiInStirikotniki" 1712404008 0
+  "c:/Users/Luka/source/zgnl/7/trikotnikiInStirikotniki/trikotnikiInStirikotniki.tex" 1712403996 13227 54767853589d1bbb4f49afca3ef7781f ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1697213653 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1697215677 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1697214843 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -141,7 +141,7 @@
   "img/trikotnik.png" 1709468401 1117261 82952d7325f3bc74cb87a597c1b31114 ""
   "img/vcrtanaKroznica.png" 1709481294 847935 7294ec2afb5e5799ffc4e62354065c0c ""
   "img/visineTrikotnika.png" 1709478162 482037 de9d59a886749c0d61b569aefdf09e29 ""
-  "trikotnikiInStirikotniki.aux" 1710067185 4591 50f382139eb65fa70c285bbaaf8ecf32 "pdflatex"
+  "trikotnikiInStirikotniki.aux" 1712404008 4599 eeddbe2947627ea675095a7087b1eb30 "pdflatex"
   (generated)
   "trikotnikiInStirikotniki.aux"
   "trikotnikiInStirikotniki.log"

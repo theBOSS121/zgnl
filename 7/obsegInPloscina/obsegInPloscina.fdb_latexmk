@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1712172181 "c:/Users/Luka/source/zgnl/7/obsegInPloscina/obsegInPloscina.tex" "obsegInPloscina.pdf" "obsegInPloscina" 1712172182 0
-  "c:/Users/Luka/source/zgnl/7/obsegInPloscina/obsegInPloscina.tex" 1712172180 1933 c40d6aeeef370a690e5833fae6439bda ""
+["pdflatex"] 1712406088 "c:/Users/Luka/source/zgnl/7/obsegInPloscina/obsegInPloscina.tex" "obsegInPloscina.pdf" "obsegInPloscina" 1712406090 0
+  "c:/Users/Luka/source/zgnl/7/obsegInPloscina/obsegInPloscina.tex" 1712406086 4493 0b3b9221b21a125f154434114faa27c2 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1697215677 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1697212153 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1697213618 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -116,7 +116,15 @@
   "c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1697224407 4750288 b9e32a962a7e89ce3e18dd08022e1c68 ""
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1697224515 8195351 f0c12f76edf2bf3522a5e617f308faa1 ""
   "c:/texlive/2023/texmf.cnf" 1697224385 713 baa45e065482d44c4cd81b98ef72c63b ""
-  "obsegInPloscina.aux" 1712172182 352 7fa0f3c6cad792f06e600f3567d9afca "pdflatex"
+  "img/obsegPravokotnikInKvadrat.png" 1712403954 88566 2bd250fb72d8110fda09eea2842967cd ""
+  "img/ploscinaPralelograma.png" 1712404576 110166 2abc7b604cc63125a9476eb35426dadf ""
+  "img/ploscinaPravokotnikInKvadrat.png" 1712404169 19761 7f3b6a54eb5a35c8f494650b78e9cdf1 ""
+  "img/ploscinaRomba.png" 1712404745 165954 857f99af85bc2ae1dc29043f796d0017 ""
+  "img/preoblikovanjeLikaVPravokotnik.png" 1712404332 126185 0d10412f59461e0405a4d04a353f7623 ""
+  "img/preoblikovanjeTrapezaVPravokotnik.png" 1712406046 183935 84807f2fa5c274aaa9de9a188c45c78c ""
+  "img/preoblikovanjeŠtirikotnikaSPravokotnimiDiagonalamiVPravokotnik.png" 1712405549 281339 ed7e8aa388ec0863cbbb9c25f4a4c978 ""
+  "img/skladnaTrikotnikaParalelogram.png" 1712405206 136929 8e1e10c532bcc347f30bb591d95279ca ""
+  "obsegInPloscina.aux" 1712406090 1865 76b36c9665083d8d9f3c5266de479ca5 "pdflatex"
   (generated)
   "obsegInPloscina.aux"
   "obsegInPloscina.log"

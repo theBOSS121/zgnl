@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.13)  3 APR 2024 21:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.13)  6 APR 2024 14:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -397,27 +397,72 @@ Package grfext Info: Graphics extension search list:
 (grfext)             \AppendGraphicsExtensions on input line 504.
  (c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-)) [1
+))
+<./img/obsegPravokotnikInKvadrat.png, id=4, 650.43pt x 177.66376pt>
+File: ./img/obsegPravokotnikInKvadrat.png Graphic file (type png)
+<use ./img/obsegPravokotnikInKvadrat.png>
+Package pdftex.def Info: ./img/obsegPravokotnikInKvadrat.png  used on input line 44.
+(pdftex.def)             Requested size: 345.0pt x 94.23724pt.
+<./img/ploscinaPravokotnikInKvadrat.png, id=5, 362.85562pt x 98.61844pt>
+File: ./img/ploscinaPravokotnikInKvadrat.png Graphic file (type png)
+<use ./img/ploscinaPravokotnikInKvadrat.png>
+Package pdftex.def Info: ./img/ploscinaPravokotnikInKvadrat.png  used on input line 54.
+(pdftex.def)             Requested size: 345.0pt x 93.76822pt.
+<./img/preoblikovanjeLikaVPravokotnik.png, id=6, 674.52pt x 155.83218pt>
+File: ./img/preoblikovanjeLikaVPravokotnik.png Graphic file (type png)
+<use ./img/preoblikovanjeLikaVPravokotnik.png>
+Package pdftex.def Info: ./img/preoblikovanjeLikaVPravokotnik.png  used on input line 59.
+(pdftex.def)             Requested size: 345.0pt x 79.70638pt.
+ [1
 
-{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (./obsegInPloscina.aux)
+{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./img/obsegPravokotnikInKvadrat.png> <./img/ploscinaPravokotnikInKvadrat.png> <./img/preoblikovanjeLikaVPravokotnik.png>]
+<./img/ploscinaPralelograma.png, id=16, 657.95813pt x 183.68625pt>
+File: ./img/ploscinaPralelograma.png Graphic file (type png)
+<use ./img/ploscinaPralelograma.png>
+Package pdftex.def Info: ./img/ploscinaPralelograma.png  used on input line 78.
+(pdftex.def)             Requested size: 345.0pt x 96.31618pt.
+<./img/ploscinaRomba.png, id=17, 622.57594pt x 465.23813pt>
+File: ./img/ploscinaRomba.png Graphic file (type png)
+<use ./img/ploscinaRomba.png>
+Package pdftex.def Info: ./img/ploscinaRomba.png  used on input line 95.
+(pdftex.def)             Requested size: 103.50105pt x 77.34308pt.
+ [2 <./img/ploscinaPralelograma.png> <./img/ploscinaRomba.png>]
+<./img/skladnaTrikotnikaParalelogram.png, id=24, 644.4075pt x 223.58531pt>
+File: ./img/skladnaTrikotnikaParalelogram.png Graphic file (type png)
+<use ./img/skladnaTrikotnikaParalelogram.png>
+Package pdftex.def Info: ./img/skladnaTrikotnikaParalelogram.png  used on input line 114.
+(pdftex.def)             Requested size: 345.0pt x 119.70735pt.
+ [3 <./img/skladnaTrikotnikaParalelogram.png>]
+<./img/preoblikovanjeŠtirikotnikaSPravokotnimiDiagonalamiVPravokotnik.png, id=28, 663.22781pt x 414.79968pt>
+File: ./img/preoblikovanjeŠtirikotnikaSPravokotnimiDiagonalamiVPravokotnik.png Graphic file (type png)
+<use ./img/preoblikovanjeŠtirikotnikaSPravokotnimiDiagonalamiVPravokotnik.png>
+Package pdftex.def Info: ./img/preoblikovanjeŠtirikotnikaSPravokotnimiDiagonalamiVPravokotnik.png  used on input line 129.
+(pdftex.def)             Requested size: 345.0pt x 215.77303pt.
+ [4 <./img/preoblikovanjeŠtirikotnikaSPravokotnimiDiagonalamiVPravokotnik.png>]
+<./img/preoblikovanjeTrapezaVPravokotnik.png, id=32, 610.53094pt x 382.42876pt>
+File: ./img/preoblikovanjeTrapezaVPravokotnik.png Graphic file (type png)
+<use ./img/preoblikovanjeTrapezaVPravokotnik.png>
+Package pdftex.def Info: ./img/preoblikovanjeTrapezaVPravokotnik.png  used on input line 143.
+(pdftex.def)             Requested size: 345.0pt x 216.11348pt.
+ [5 <./img/preoblikovanjeTrapezaVPravokotnik.png>] (./obsegInPloscina.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 13729 strings out of 474503
- 275931 string characters out of 5756704
- 1923043 words of memory out of 5000000
- 35460 multiletter control sequences out of 15000+600000
+ 13803 strings out of 474503
+ 279260 string characters out of 5756704
+ 1924043 words of memory out of 5000000
+ 35534 multiletter control sequences out of 15000+600000
  561085 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,5n,107p,627b,163s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,6n,107p,627b,229s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on obsegInPloscina.pdf (2 pages, 80518 bytes).
+Output written on obsegInPloscina.pdf (5 pages, 1456386 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
+ 66 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
