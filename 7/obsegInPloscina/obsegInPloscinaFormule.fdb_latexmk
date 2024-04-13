@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1713024363 "c:/Users/Luka/source/zgnl/7/obsegInPloscina/obsegInPloscinaFormule.tex" "obsegInPloscinaFormule.pdf" "obsegInPloscinaFormule" 1713024365 0
-  "c:/Users/Luka/source/zgnl/7/obsegInPloscina/obsegInPloscinaFormule.tex" 1713024361 2430 f0c394a8235748e84c3f2f17063c3167 ""
+["pdflatex"] 1713028105 "c:/Users/Luka/source/zgnl/7/obsegInPloscina/obsegInPloscinaFormule.tex" "obsegInPloscinaFormule.pdf" "obsegInPloscinaFormule" 1713028107 0
+  "c:/Users/Luka/source/zgnl/7/obsegInPloscina/obsegInPloscinaFormule.tex" 1713028101 2689 7ef5ad55c5b5b3fe93ec08729983a566 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1697215677 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1697212153 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1697213618 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -114,11 +114,8 @@
   "c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1697224407 4750288 b9e32a962a7e89ce3e18dd08022e1c68 ""
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1697224515 8195351 f0c12f76edf2bf3522a5e617f308faa1 ""
   "c:/texlive/2023/texmf.cnf" 1697224385 713 baa45e065482d44c4cd81b98ef72c63b ""
-  "img/deltoid.png" 1713023961 82755 cfdea631cfd827470e189fbdaef33719 ""
-  "img/paralelogram.png" 1713023747 130945 c63bf70c7aac0bf5e4e49965784446be ""
-  "img/trapez.png" 1713024080 132399 1746b9850d28266e01aa89e60addb27c ""
-  "img/trikotnik.png" 1713024190 104277 593d437fc0d912675c97895d21185147 ""
-  "obsegInPloscinaFormule.aux" 1713024365 1024 9db84eb227759f5fd2a78f6b4ef57dbf "pdflatex"
+  "img/obsegInPloscinePovzetek.png" 1713027835 4372487 afd967e2703b28fdf2cba0bfb8da0622 ""
+  "obsegInPloscinaFormule.aux" 1713028107 1023 3ed97f719e13324c00e283d5a4497802 "pdflatex"
   (generated)
   "obsegInPloscinaFormule.aux"
   "obsegInPloscinaFormule.log"
